@@ -1,6 +1,6 @@
 # Fork to test new features:
 
-- LCD Display on ES¨32 Joystick
+- LCD Display on ESP32 Joystick
 - New lower cost ADC
 - New lower cost Motor 
 
